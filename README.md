@@ -1,9 +1,5 @@
 # Docker Project
 
-## Description:
-
-Developed portable docker container which will perform the various operations with .txt files in the given directory dynamically. This is built using dockerfile, python script and alpine image for increasing the efficiency. 
-
 ## Steps for executing the project:
 1. Download the project zip file 'Docker_Project.zip' and extract it using unzip command:- unzip Docker_Project.zip
 2. Navigate to the same extracted folder using cd command:- cd Docker_Project
