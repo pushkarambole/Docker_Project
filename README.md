@@ -1,6 +1,6 @@
 # Docker Project
 
-## Steps for executing the project:
+## Steps for executing the project:-
 1. Download the project zip file 'Docker_Project.zip' and extract it using unzip command:- unzip Docker_Project.zip
 2. Navigate to the same extracted folder using cd command:- cd Docker_Project
 3. Extract the image from tar file 'pushkarcode.tar' using the command:- docker load < pushkarcode.tar
