@@ -1,4 +1,4 @@
-# Docker Project:-
+# Docker Project:
 
 ## Steps for executing the project:
 1. Download the project zip file 'Docker_Project.zip' and extract it using unzip command:- unzip Docker_Project.zip
